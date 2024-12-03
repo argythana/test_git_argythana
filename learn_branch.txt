@@ -8,3 +8,5 @@ more text
 Add more text after commit .
 and more
 and more
+
+even more text at third round of changes.

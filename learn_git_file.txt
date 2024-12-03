@@ -1,5 +1,4 @@
-My first line.
-
-My third line.
 
 My fourth addition.
+
+Addition in the second branch.
